@@ -1,5 +1,6 @@
 ## Neurocomputational Approaches to Emotion Representation (EmoRep)
 Codebase for: "Decoding of arousal and valence from fMRI data obtained during emotion inductions"
+
 Supporting NIMH Grant : R01-MH124112-01
 
 <!--
